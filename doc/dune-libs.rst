@@ -170,6 +170,8 @@ all the binaries and everything that depends on them, such as tests. Instead,
 Dune leaves a placeholder inside the binary and fills it during installation or
 promotion.
 
+For more details on how project versions are managed, see :doc:`reference/dune-project/version`
+
 .. _dune-action-plugin:
 
 (Experimental) Dune Action Plugin
